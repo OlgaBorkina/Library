@@ -1,0 +1,63 @@
+package dto;
+
+public class    BookDTO {
+    private int id;
+    private String title;
+    private String author;
+    private int publishedYear;
+    private String genre;
+
+
+    public BookDTO() {
+    }
+
+    public BookDTO(int id, String title, String author, int publishedYear, String genre) {
+        this.id = id;
+        this.title = title;
+        this.author = author;
+        this.publishedYear = publishedYear;
+        this.genre = genre;
+
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
+
+    public int getPublishedYear() {
+        return publishedYear;
+    }
+
+    public void setPublishedYear(int publishedYear) {
+        this.publishedYear = publishedYear;
+    }
+
+    public String getGenre() {
+        return genre;
+    }
+
+    public void setGenre(String genre) {
+        this.genre = genre;
+    }
+
+}
