@@ -1,8 +1,9 @@
 package coffeeshot;
 
+
 public class Main {
     public static void main(String[] args) {
-        CoffeeOrderBoard coffeeOrderBoard = new CoffeeOrderBoard();
+            CoffeeOrderBoard coffeeOrderBoard = new CoffeeOrderBoard();
 
         coffeeOrderBoard.add("Alice");
         coffeeOrderBoard.add("Bob");
@@ -17,6 +18,8 @@ public class Main {
 
         orderDelivered = coffeeOrderBoard.deliver(3);
         coffeeOrderBoard.draw();
+
+
 
 
 

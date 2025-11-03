@@ -1,0 +1,32 @@
+2025-11-03 21:59:33 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =1, nameClient =Alex
+2025-11-03 21:59:33 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =2, nameClient =Maria
+2025-11-03 21:59:33 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =3, nameClient =John
+2025-11-03 21:59:33 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered: 
+2025-11-03 21:59:33 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered: 
+2025-11-03 22:00:01 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =1, nameClient =Alex
+2025-11-03 22:00:01 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =2, nameClient =Maria
+2025-11-03 22:00:01 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =3, nameClient =John
+2025-11-03 22:00:01 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered: 
+2025-11-03 22:00:01 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered: 
+2025-11-03 22:01:03 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =1, nameClient =Alex
+2025-11-03 22:01:03 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =2, nameClient =Maria
+2025-11-03 22:01:03 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =3, nameClient =John
+2025-11-03 22:01:03 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered: 
+2025-11-03 22:01:03 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered: 
+2025-11-03 22:03:28 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =1, nameClient =Alex
+2025-11-03 22:03:28 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =2, nameClient =Maria
+2025-11-03 22:03:28 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =3, nameClient =John
+2025-11-03 22:03:28 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered: 
+2025-11-03 22:03:28 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered: 
+2025-11-03 22:06:43 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =1, nameClient =Alex
+2025-11-03 22:06:43 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =2, nameClient =Maria
+2025-11-03 22:06:43 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =3, nameClient =John
+2025-11-03 22:06:43 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered:  1
+2025-11-03 22:06:43 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered: 3
+2025-11-03 22:07:37 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =1, nameClient =Alice
+2025-11-03 22:07:37 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =2, nameClient =Bob
+2025-11-03 22:07:37 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =3, nameClient =Charlie
+2025-11-03 22:07:37 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =4, nameClient =Alice
+2025-11-03 22:07:37 [main] INFO  coffeeshot.CoffeeOrderBoard - Order added: numberOrder =5, nameClient =Bob
+2025-11-03 22:07:37 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered:  1
+2025-11-03 22:07:37 [main] INFO  coffeeshot.CoffeeOrderBoard - Order delivered: 3
