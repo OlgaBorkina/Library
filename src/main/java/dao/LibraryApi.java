@@ -14,6 +14,6 @@ public interface LibraryApi {
     Reader addReader (Reader reader);
    // List<BorrowedBooks> getAllBorrowed();
     Reader updateReader (Reader reader );
-    List<Book> filterBooksByStatus (String status);
-    List<Book> findBooksBorrowedByDate (LocalDate date);
+//    List<Book> filterBooksByStatus (String status);
+ //   List<Book> findBooksBorrowedByDate (LocalDate date);
 }

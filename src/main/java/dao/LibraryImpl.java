@@ -112,13 +112,13 @@ public class LibraryImpl implements LibraryApi {
         return updatedReader;
     }
 
-    @Override
-    public List<Book> filterBooksByStatus(String status) {
-        return List.of();
-    }
-
-    @Override
-    public List<Book> findBooksBorrowedByDate(LocalDate date) {
-        return List.of();
-    }
+//    @Override
+//    public List<Book> filterBooksByStatus(String status) {
+//        return List.of();
+//    }
+//
+//    @Override
+//    public List<Book> findBooksBorrowedByDate(LocalDate date) {
+//        return List.of();
+//    }
 }
