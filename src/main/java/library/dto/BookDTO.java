@@ -1,6 +1,6 @@
-package dto;
+package library.dto;
 
-public class    BookDTO {
+public class BookDTO {
     private int id;
     private String title;
     private String author;
@@ -9,6 +9,13 @@ public class    BookDTO {
 
 
     public BookDTO() {
+    }
+
+    public BookDTO(String title, String author, int publishedYear, String genre) {
+        this.title = title;
+        this.author = author;
+        this.publishedYear = publishedYear;
+        this.genre = genre;
     }
 
     public BookDTO(int id, String title, String author, int publishedYear, String genre) {
